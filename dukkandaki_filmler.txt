@@ -1,0 +1,50 @@
+﻿The Pianist 10
+Doctor Who 40
+Der Kampf 30
+Saving Private Ryan 20
+Schindler's List 15
+The Shawshank Redemption 25
+The Godfather 35
+The Dark Knight 30
+Pulp Fiction 20
+The Lord of the Rings: The Return of the King 25
+Forrest Gump 15
+Inception 20
+Fight Club 25
+The Matrix 20
+Goodfellas 25
+Seven Samurai 15
+Star Wars: Episode IV - A New Hope 20
+The Silence of the Lambs 20
+It's a Wonderful Life 15
+Life Is Beautiful 20
+The Usual Suspects 15
+Se7en 25
+The Green Mile 20
+Interstellar 30
+Spirited Away 15
+Parasite 25
+The Intouchables 20
+City of God 15
+The Lion King 10
+The Departed 20
+Gladiator 25
+Whiplash 15
+Memento 20
+The Prestige 25
+The Grand Budapest Hotel 15
+Dunkirk 20
+The Great Dictator 15
+Pan's Labyrinth 25
+The Sixth Sense 20
+The Truman Show 15
+La La Land 20
+Mad Max: Fury Road 25
+Blade Runner 2049 30
+A Beautiful Mind 20
+Joker 25
+Moonlight 20
+The Big Lebowski 15
+Fargo 20
+No Country for Old Men 25
+The Social Network 20
